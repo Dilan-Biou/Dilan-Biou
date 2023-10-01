@@ -5,7 +5,7 @@
 
 ## Languages and Tools
 
-- ![javascript](https://cdn-icons-png.flaticon.com/128/5968/5968292.png)
+- ![javascript]
 - HTML
 - CSS
 - React
