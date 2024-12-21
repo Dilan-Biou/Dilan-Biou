@@ -6,28 +6,33 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
 ###
 
 <p align="left">
-  ✨ Creating bugs since 2020 (and fixing them since 2021!)
-  <br><br>
-  📚 Currently learning advanced React, TypeScript, and performance optimization.
-  <br><br>
-  🎯 Goals:<br>
+<h4>✨ About Me:</h4>
   <ul>
-    <li>Build accessible, user-friendly web apps</li>
-    <li>Contribute to open-source projects</li>
-    <li>Create innovative UI designs</li>
+    <li>I’ve been coding since 2022, focusing on modern web development.</li>
+    <li>I enjoy solving tricky problems and bringing creative designs to life with code.</li>
   </ul>
-  <br><br>
-  🎲 Fun fact: I’m powered by coffee ☕ and a love for solving tricky bugs.
+
+  <h4>📚 Currently Exploring:</h4>
+  <ul>
+    <li>Advanced React features like server components and state management libraries.</li>
+    <li>TypeScript to build safer and more scalable applications.</li>
+    <li>React Native for building cross-platform mobile apps.</li>
+  </ul>
+
+  <h4>🎯 Goals:</h4>
+  <ul>
+    <li>Build intuitive and accessible web applications.</li>
+    <li>Contribute to impactful open-source projects.</li>
+    <li>Keep learning and staying ahead of the latest web trends.</li>
+  </ul>
 </p>
 
 ###
 
-<h2 align="left">I use</h2>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
