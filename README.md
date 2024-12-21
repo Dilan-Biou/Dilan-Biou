@@ -5,7 +5,7 @@
 
 ## Languages and Tools
 
-- ![javascript]
+- javascript
 - HTML
 - CSS
 - React
